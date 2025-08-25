@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD Bridged ZEP20",
+  "symbol": "USDT.z",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Tether USD ZEB20 (USDT.z) brings the stability of the US Dollar to the ZEB20 blockchain ecosystem. Each token is pegged 1:1 to the USD, offering a secure, fast, and reliable way to store and transfer value.",
+  "website": "https://tether-z.com",
+  "explorer": "https://etherscan.io/token/0xB7953Cb0e98AdAE5b0782f0A195658Db5C971c14",
+  "status": "active",
+  "id": "0xB7953Cb0e98AdAE5b0782f0A195658Db5C971c14"
+}
